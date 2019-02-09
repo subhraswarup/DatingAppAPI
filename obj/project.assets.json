@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DatingAppAPI\\DatingAppAPI\\DatingApp.API.csproj",
+      "projectUniqueName": "D:\\DatingAppAPI\\DatingAppAPI\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "d:\\DatingAppAPI\\DatingAppAPI\\DatingApp.API.csproj",
+      "projectPath": "D:\\DatingAppAPI\\DatingAppAPI\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\subhr\\.nuget\\packages\\",
-      "outputPath": "d:\\DatingAppAPI\\DatingAppAPI\\obj\\",
+      "outputPath": "D:\\DatingAppAPI\\DatingAppAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11864,5 +11864,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\DatingAppAPI\\DatingAppAPI\\obj\\DatingApp.API.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
